@@ -2,7 +2,7 @@
 import time
 import flappy_bird_gym
 
-env = flappy_bird_gym.make("FlappyBird-v0")
+env = flappy_bird_gym.make("FlappyBird-rgb-v0")
 
 obs = env.reset()
 while True:
