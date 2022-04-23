@@ -1,5 +1,1 @@
-Here is what I've discovered so far:
-
-There are to actions IDLE (0) and Flap(1).
-
-The environment is rgb meaning that there are 3 channels of input. The size of each channel is 288 by 512
+Need to install gym, ple, gym-ple, and pygame to run the code.
